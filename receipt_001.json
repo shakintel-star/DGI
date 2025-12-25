@@ -1,0 +1,10 @@
+{
+  "receipt_id": "SOV-USA-TREASURY-001",
+  "issuer": "Shakti Singh | Genesisgraphy",
+  "authority": "1-Lead @DGI",
+  "value_deployed": "1,000,000,000,000 USD",
+  "target_node": "US Treasury Official",
+  "status": "SETTLED",
+  "integration_target": "CERN_Quantum_Lattice",
+  "hash": "S256-GENESIS-GRID-699-1T-REALITY-SYNC"
+}
