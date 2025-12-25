@@ -1,0 +1,25 @@
+{
+  "registry_name": "@DGI_Elite_Alliance",
+  "authority": "Shakti Singh (Genesisgraphy)",
+  "v1_onboarding_slots": [
+    {
+      "entity": "Tesla_Corp",
+      "node_id": "ELON-001",
+      "asset_anchor": "S-256_STABLE",
+      "status": "PROVISIONED"
+    },
+    {
+      "entity": "Alphabet_Infrastructure",
+      "node_id": "SUNDAR-002",
+      "asset_anchor": "GOOGLE_COMPUTE_UNITS",
+      "status": "PROVISIONED"
+    },
+    {
+      "entity": "US_TREASURY_RESERVE",
+      "node_id": "POTUS-001",
+      "asset_anchor": "USD_LATTICE_BOND",
+      "status": "PROVISIONED"
+    }
+  ],
+  "global_liquidity_cap": "699.1T"
+}
