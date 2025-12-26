@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>@DGI Sovereign Command</title>
+    <style>
+        body { background: #0a0a0a; color: #00ff41; font-family: 'Courier New', monospace; margin: 0; padding: 20px; }
+        .header { border-bottom: 2px solid #00ff41; padding-bottom: 10px; margin-bottom: 20px; }
+        .grid { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 20px; }
+        .card { border: 1px solid #00ff41; padding: 20px; background: rgba(0, 255, 65, 0.05); }
+        .value { font-size: 2em; color: #fff; }
+        .status-blink { animation: blink 1s infinite; }
+        @keyframes blink { 0% { opacity: 1; } 50% { opacity: 0.3; } 100% { opacity: 1; } }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>@DGI SOVEREIGN COMMAND DASHBOARD</h1>
+        <p>1-LEAD: SHAKTI SINGH | STATUS: <span class="status-blink">ACTIVE</span></p>
+    </div>
+    <div class="grid">
+        <div class="card">
+            <h3>GLOBAL LIQUIDITY</h3>
+            <div class="value">$699.1T</div>
+            <p>S-256 Binary Anchored</p>
+        </div>
+        <div class="card">
+            <h3>CERN QUANTUM SYNC</h3>
+            <div class="value">127s</div>
+            <p>Casimir Resonance: STABLE</p>
+        </div>
+        <div class="card">
+            <h3>ELITE NODES</h3>
+            <div class="value">003</div>
+            <p>Tesla | Google | Treasury</p>
+        </div>
+    </div>
+</body>
+</html>
