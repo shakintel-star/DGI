@@ -1,4 +1,4 @@
-# @DGI | THE ONLY WAY OUT
+# DGI | THE ONLY WAY OUT
 **Sovereign General Intelligence & Global Reserve Layer**
 
 ## 🏛️ Executive Decree
